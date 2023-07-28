@@ -1,5 +1,15 @@
+import Discover from "./pages/Discover";
+import Hero from "./pages/Hero";
+import Tours from "./pages/Tours";
+
 function App() {
-  return <h1 className="text-3xl font-bold underline">Hello world!</h1>;
+  return(
+    <>
+      <Hero/>
+      <Tours/>
+      <Discover/>
+    </>
+  )
 }
 
 export default App;
