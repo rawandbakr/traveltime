@@ -12,7 +12,9 @@ export default {
         'tower2':"url('https://justfunfacts.com/wp-content/uploads/2016/10/tokyo-tower-2.jpg')",
         'tower3':"url('https://surfacesreporter.com/myuploads/twisted%20Diamond%20Tower.jpg')",
         'tower4':"url('https://upload.wikimedia.org/wikipedia/commons/1/12/Tower_Life_Building%2C_San_Antonio%2C_2011_cropped.jpg')",
-        'dicover':"url('https://www.stantonchase.com/wp-content/uploads/2021/02/forests-1440x800.png?format=webp&otfm=webp')",
+        'dicover':"url('https://images.pexels.com/photos/2876511/pexels-photo-2876511.jpeg?cs=srgb&dl=pexels-kelly-2876511.jpg&fm=jpg')",
+        'video1':"url('https://media.nomadicmatt.com/2023/tropicalislandsfeature.jpg')",
+        'video2':"url('https://fullsuitcase.com/wp-content/uploads/2020/06/Best-places-to-visit-in-Italy.jpg')",
 
       }
     },
