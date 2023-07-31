@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 *{
-  @apply text-white font-mono
+  @apply text-white font-mono text-sm
 }
